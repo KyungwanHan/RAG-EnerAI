@@ -10,3 +10,6 @@ venv/
 
 # Other system files
 .DS_Store
+
+figures/
+references/
